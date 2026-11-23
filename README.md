@@ -47,6 +47,10 @@ I'm **Audu Emmanuel Eligwu**, a **First Class** Information Systems graduate fro
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![NEAR](https://img.shields.io/badge/NEAR_Protocol-000000?style=flat&logo=near&logoColor=white)
 
+**Cloud**
+<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
 **Tools**
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
